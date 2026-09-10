@@ -18,27 +18,66 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 
-## 👤 Portfolio Website
+## 🌐 Portfolio
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/MUdevelops/MUdevelops/main/assets/coding.gif" alt="coding gif" />
-<br>
-https://m-umar-jamal.netlify.app/
-<br>
-## 🧑‍💻 About Me
+<div align="center">
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/MUdevelops/MUdevelops/main/assets/coding.gif" alt="coding gif" />
+<a href="https://m-umar-jamal.netlify.app/">
+  <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-0A0A0A?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/>
+</a>
 
-I'm a **motivated Software Developer** from Okara, Pakistan, currently in my **6th semester** at UCP. I love leading teams, exploring new tech, and building creative **AI-based applications**. I lead **Group #2** on university projects — from AI attendance systems to full-stack quiz platforms.
+<br><br>
 
-- 🎓 **Program:** BSCS — 6th Semester `(2023–2027)`
-- 🏫 **University:** University of Central Punjab, Okara Branch
-- 📍 **Location:** Okara, Punjab, Pakistan
-- 💼 **Status:** `Open to Freelance & Full-Time Roles`
-- ⚡ **Fun Fact:** I ship real working software, not just prototypes
+<a href="https://m-umar-jamal.netlify.app/">
+  <img src="https://raw.githubusercontent.com/MUdevelops/MUdevelops/main/assets/coding.gif" width="500" alt="Coding Animation"/>
+</a>
+
+### 🔗 [m-umar-jamal.netlify.app](https://m-umar-jamal.netlify.app/)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/MUdevelops/MUdevelops/main/assets/coding.gif" alt="Coding Animation"/>
+
+I'm a **motivated Software Developer** from **Okara, Pakistan**, currently pursuing my **BSCS** and exploring the intersection of **Software Development, Artificial Intelligence, and modern application development**.
+
+I enjoy turning ideas into **real, functional software** — from AI-powered applications and automation tools to full-stack systems and Android projects.
+
+I'm also passionate about **team leadership, problem-solving, continuous learning, and building practical projects** that go beyond tutorials and theory.
+
+### 🚀 What I Do
+
+* 🤖 Build **AI-powered applications**
+* 💻 Develop **software & full-stack projects**
+* 📱 Explore **Android application development**
+* 🧠 Experiment with **Machine Learning & AI**
+* 👥 Lead and collaborate on **university software projects**
+* 🛠️ Turn ideas into **real working products**
+
+### 🎓 Currently
+
+|                     | Details                                          |
+| ------------------- | ------------------------------------------------ |
+| 🎓 **Degree**       | BSCS — 6th Semester                              |
+| 🏫 **University**   | University of Central Punjab — Okara Branch      |
+| 📅 **Session**      | 2023 – 2027                                      |
+| 📍 **Based In**     | Okara, Punjab, Pakistan                          |
+| 💼 **Availability** | Open to Freelance & Full-Time Opportunities      |
+| ⚡ **Focus**         | Software Development • AI • Android • Full-Stack |
+
+### 💡 My Philosophy
+
+> **Don't just learn technology — build something with it.**
+
+I believe the best way to grow as a developer is to **build real projects, solve real problems, experiment with new technologies, and continuously improve**.
 
 <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="Rainbow Line"/>
+
 
 ## 🛠️ Tech Stack
 
