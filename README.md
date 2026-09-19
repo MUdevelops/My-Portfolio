@@ -446,16 +446,15 @@ Production-ready Android puzzle game with infinite difficulty scaling.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00C6FF,100:6C63FF&height=85&text=📊%20GITHUB%20STATS%20%26%20ACTIVITY&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=90&text=📊%20ENGINEERING%20ACTIVITY&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Engineering Activity"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MUdevelops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=7C3AED&text_color=C9D1D9&count_private=true" width="48%" alt="GitHub Stats"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUdevelops&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C6FF&ring=7C3AED&fire=06B6D4&currStreakLabel=00F5A0" width="48%" alt="GitHub Streak"/>
 
-<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUdevelops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=C9D1D9" alt="Top Languages"/>
 
 <br><br>
 
